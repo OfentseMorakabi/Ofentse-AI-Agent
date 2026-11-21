@@ -1,0 +1,6 @@
+{
+  "name": "Aether",
+  "description": "Voice-activated mobile and desktop AI executive assistant for encrypted calendar scheduling, email dispatch, task automation, and real-time team collaboration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
